@@ -9,6 +9,7 @@ Random Forest fits a number of decision tress of various sub sample of the datas
 More details can be viewed at [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.%20A%20random%20forest%20is,to%20improve%20the%20predictive%20accuracy%20and%20control%20over-fitting.) It is official website of sklearn
 ![Random Forest](https://camo.githubusercontent.com/fdb21b37f4e52818e7c4ac433ace0773599cdffc03ea468e362b5d00ea8ea1d4/68747470733a2f2f686172647461736b73696e2e66696c65732e776f726470726573732e636f6d2f323031392f30362f72616e646f6d2d65313536313732393938303831352e706e673f773d35323226683d333437)
 ![sklearn](https://camo.githubusercontent.com/a670f346bb5a8d656ee1255bd5325d3eb41a078b61f8a4799a293b27a2ded066/68747470733a2f2f6d616368696e652d6561726e696e672e6e65742f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6579655f736b6c6561726e2e706e67)
+Machine Learning Model can be viewed in the file RandomForest.py
 ## Deployment of the Model
 This model is deployed by using flask framework of python that is used for backend development of web. HTML and CSS has been used for the frontend UI. This app can be viewed at
 [Flight Fare Predictor](https://flightfareprediction.azurewebsites.net/).This app is being hosted on Azure cloud.
